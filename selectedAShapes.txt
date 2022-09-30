@@ -1,0 +1,3 @@
+square with area 16,00 and perimeter 16,00
+square with area 25,00 and perimeter 20,00
+square with area 36,00 and perimeter 24,00

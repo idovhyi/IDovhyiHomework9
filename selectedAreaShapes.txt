@@ -1,0 +1,5 @@
+circle with area 12,57 and perimeter 12,57
+circle with area 28,27 and perimeter 18,85
+square with area 16,00 and perimeter 16,00
+square with area 25,00 and perimeter 20,00
+square with area 36,00 and perimeter 24,00
